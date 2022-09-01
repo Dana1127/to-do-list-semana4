@@ -1,0 +1,11 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200&display=swap');
+
+
+.big-title{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 300;
+    font-size: larger;
+    background-color: aqua;
+    justify-content: center;
+}
