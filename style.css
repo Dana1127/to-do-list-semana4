@@ -2,10 +2,30 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200&display=swap');
 
 
-.big-title{
+#text{
     font-family: 'Poppins', sans-serif;
+    font-weight: 300pt;
+    margin-right: pt;
+}
+
+#direction{
+    display: flex;
+    flex-direction: row;
+
+}
+
+.big-title{
     font-weight: 300;
     font-size: larger;
     background-color: aqua;
+    display: flex;
     justify-content: center;
 }
+
+.checked{
+    text-decoration: line-through;
+}
+
+.unchecked {
+    color: blue;
+  }
